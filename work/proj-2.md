@@ -1,5 +1,5 @@
 ---
-title: City In Website Concept
+title: CAN SAT High Altitude Rocket
 ---
 
-![City In]({{ site.github.url }}/assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![CAN SAT High Altitude Rocket]({{ site.github.url }}/assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
