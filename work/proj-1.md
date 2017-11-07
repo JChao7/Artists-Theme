@@ -1,12 +1,12 @@
 ---
-title: Typo International Design Talks Stuff
+title: Wooden Bridge
 ---
 
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
+![Wooden Bridge]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+I am the group lead
+
+The Challenge was to get your bridge to span a 4-meter crevasse. Each member of the team(5) will cross the bridge and 1 of the 5 need to be 100kg. My team and I designed our bridge to minimize the mass but maximizing the stress/ strain for each member.
 
 ![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
 ![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img5.jpg)
