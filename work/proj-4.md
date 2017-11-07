@@ -5,4 +5,4 @@ title: Smart Green House
 
 Hydroponics Lead – Design, prototype, and build a piping system that is easy to access, efficient, and optimizes plant growth and care.
 
-![Flat Mobile UI/UX Concept]({{ site.github.url }}/assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
+![Green House Finished]({{ site.github.url }}/assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
